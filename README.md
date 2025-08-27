@@ -34,19 +34,13 @@ The work combines data cleaning, exploratory analysis, feature engineering, and 
 
 ## 📂 Repository Structure  
 
-├── data/   
+ └── [Airline_Delay_Cause.csv](https://drive.google.com/file/d/1mnPG63YgjPtnDAAz8eYxXPHewqAISH5x/view?usp=sharing)
 
-│ └── [Airline_Delay_Cause.csv](https://drive.google.com/file/d/1mnPG63YgjPtnDAAz8eYxXPHewqAISH5x/view?usp=sharing)
+ └── flightdelaykj.ipynb
 
-│
-├── notebooks/
+ └── README.md
 
-│ └── flightdelaykj.ipynb
-
-
-├── README.md
-
-└── requirements.txt
+ └── requirements.txt
 
 
 ## 🚀 How to Run  
